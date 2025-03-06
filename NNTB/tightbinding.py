@@ -19,6 +19,15 @@ Copyright (c) 2024 Marcel S. Claro
 GNU Lesser General Public License v3.0
 """
 
+
+"""
+Some algorithms were adapted from 
+https://github.com/deepmodeling/tbplas
+https://github.com/dean0x7d/pybinding
+BSD licenses
+"""
+
+
 # Function to process a batch of edges
 def process_edge_batch_periodic(batch, R_vec_lst, HR_lst, SR_lst, system):
     for index, reversed, Rvec, ham, overlap in batch:
