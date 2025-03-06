@@ -21,11 +21,10 @@ For example:
 * [E3NN](https://e3nn.org/) 
 
 ## Usage
-Refer to the `Example` notebook for a minimal example of how to use the code.
-
-Use sample data: https://github.com/marcelclaro/Neuatomic_beta/releases
-
 Documentation is  still a work in progress.
+
+The `Example` notebook has a minimal example of how to use the code.
+Requires the sample data available at: https://github.com/marcelclaro/Neuatomic_beta/releases
 
 Brief description of the files:
 
@@ -37,7 +36,6 @@ Brief description of the files:
 - `tensorproducts.py` (or `tensorproductsO2.py` for SO(2) projection version): Tensor product PyTorch modules
 - `tightbinding.py`: Basic calculations (Bandstructure, DOS, and dielectric constant) from a graph. Native in PyTorch, use dense matrices and full diagonalization, suitable for small graphs.
 - `tightbinding_scipy.py`: Same as above but native on sparse SciPy matrices and Chebyshev polinomial approximations, suitable for larger systems.
-
 
 ## License
 This project is licensed under the GNU Lesser General Public License v3.0 as described in the LICENSE file.
