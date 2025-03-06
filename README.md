@@ -22,7 +22,8 @@ For example:
 
 ## Usage
 Refer to the `Example` notebook for a minimal example of how to use the code.
-Documentation is a work in progress.
+Use sample data: https://github.com/marcelclaro/Neuatomic_beta/releases
+Documentation is  still a work in progress.
 
 Brief description of the files:
 
