@@ -22,7 +22,9 @@ For example:
 
 ## Usage
 Refer to the `Example` notebook for a minimal example of how to use the code.
+
 Use sample data: https://github.com/marcelclaro/Neuatomic_beta/releases
+
 Documentation is  still a work in progress.
 
 Brief description of the files:
@@ -40,3 +42,8 @@ Brief description of the files:
 ## License
 This project is licensed under the GNU Lesser General Public License v3.0 as described in the LICENSE file.
 As it reuses other codes, specific licenses for each code are also described in the LICENSE file.
+
+
+by Marcel Santos Claro at University of Santiago de Compostela
+
+Group: https://www.usc.es/ciqus/es/grupos/cond-matter-chem 
